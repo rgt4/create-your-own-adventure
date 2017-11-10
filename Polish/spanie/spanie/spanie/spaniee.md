@@ -7,3 +7,7 @@ Co robisz?
 [Idziesz dalej spać](spanie/spaniee.md)
 
 [Idziesz dalej spać](./spaniee.md)
+
+[Idziesz dalej spać](../spaniee.md)
+
+[Idziesz dalej spać](../../spaniee.md)

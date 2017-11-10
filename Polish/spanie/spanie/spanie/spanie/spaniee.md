@@ -1,4 +1,4 @@
-﻿Po obudzeniu się sytuacja się  nie zmieniła!
+﻿Zaczynasz odczuwać pewien dyskomfort w dolnej części ciała.
 
 Co robisz?
 
@@ -9,3 +9,7 @@ Co robisz?
 [Idziesz dalej spać](./spaniee.md)
 
 [Idziesz dalej spać](../spaniee.md)
+
+[Idziesz dalej spać](../../spaniee.md)
+
+[Idziesz dalej spać](../../../spaniee.md)
